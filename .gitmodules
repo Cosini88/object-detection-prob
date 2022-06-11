@@ -1,0 +1,6 @@
+[submodule "detectron2"]
+ path = detectron2
+ url = https://github.com/Cosini88/detectron2.git
+[submodule "WaymoCOCO"]
+ path = WaymoCOCO
+ url = https://github.com/Cosini88/WaymoCOCO.git
